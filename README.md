@@ -3,8 +3,10 @@
 <h3 align="center">I am an enthusiastic programmer with a strong passion for building innovative and practical solutions.</h3>
 
 <hr>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joywin2003&show_icons=true&locale=en" alt="joywin2003" /></p>
+<hr>
 
-- 🌱 I’m currently learning **Flutter**
+  - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **21a20.joywin@sjec.ac.in**
 
@@ -17,9 +19,7 @@
 
 <hr>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joywin2003&show_icons=true&locale=en&layout=compact" alt="joywin2003" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joywin2003&show_icons=true&locale=en&layout=compact" alt="joywin2003" /></p>
 </div>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joywin2003&show_icons=true&locale=en" alt="joywin2003" /></p>
- -->
- 
-
+<hr>
+     
