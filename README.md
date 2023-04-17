@@ -7,7 +7,7 @@
 <hr>
 
  - 🌱 Currently learning Flutter to develop beautiful and functional mobile apps.
- - 📫 You can reach me at example@mail.com.
+ - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
 <hr>
