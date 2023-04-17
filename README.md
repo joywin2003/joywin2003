@@ -6,11 +6,9 @@
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joywin2003&show_icons=true&locale=en&theme=highcontrast" alt="joywin2003" /></p>
 <hr>
 
-  - 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **21a20.joywin@sjec.ac.in**
-
-- ⚡ Fun fact **I'm a human being?**
+ - 🌱 Currently learning Flutter to develop beautiful and functional mobile apps.
+ - 📫 You can reach me at example@mail.com.
+ - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
 <hr>
 
