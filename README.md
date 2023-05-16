@@ -3,7 +3,7 @@
 <h4 align="center" > &emsp; I am a passionate programmer with a keen interest in exploring new technologies. I enjoy watching anime and challenging myself with new workouts. Cooking is a passion of mine, and I love experimenting with different recipes. Overall, I am a well-rounded individual committed to excellence in both my personal and professional life.</h4>
 
 <hr>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joywin2003&show_icons=true&locale=en&theme=highcontrast" alt="joywin2003" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joywin2003&show_icons=true&locale=en&theme=highcontrast" alt="joywin2003" /></p>
 <hr>
 
  - 🌱 Currently learning Flutter to develop beautiful and functional mobile apps.
@@ -17,7 +17,7 @@
 
 <hr>
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joywin2003&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="joywin2003" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joywin2003&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="joywin2003" /></p>
 </div>
 <hr>
      
