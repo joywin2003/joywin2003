@@ -6,7 +6,7 @@
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joywin2003&show_icons=true&locale=en&theme=highcontrast" alt="joywin2003" /></p>
 <hr>
 
- - 🌱 Currently learning Flutter to develop beautiful and functional mobile apps.
+ - 🌱 Currently learning React with TypeScript to develop beautiful and functional web applications.
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
