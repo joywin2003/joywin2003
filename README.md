@@ -6,7 +6,7 @@
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joywin2003&show_icons=true&locale=en&theme=highcontrast" alt="joywin2003" /></p>
 <hr>
 
- - 🌱 Currently learning FastAPI, a modern and efficient Python web framework for building APIs and web applications.
+ - 🌱 Currently learning google cloud and Vertex Api.
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
