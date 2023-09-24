@@ -1,3 +1,6 @@
+
+
+
 ![logo](Iamadeveloper.gif)
 
 <h1 style = "color:yellow;"align="center">Hey there, I'm Joywin</h1>
@@ -7,7 +10,7 @@
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joywin2003&show_icons=true&locale=en&theme=highcontrast" alt="joywin2003" /></p>
 <hr>
 
- - 🌱 Currently learning google cloud and Vertex Api.
+ - 🌱 Currently learning google cloud and Vertex AI.
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
