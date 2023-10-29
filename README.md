@@ -3,7 +3,7 @@
 ![logo](Iamadeveloper.gif)
 
 # Hey there, I'm Joywin
-**I am a passionate programmer with a keen interest in exploring new technologies. I enjoy watching anime and challenging myself with new workouts. Cooking is a passion of mine, and I love experimenting with different recipes. Overall, I am a well-rounded individual committed to excellence in both my personal and professional life.**
+**I'm a computer science student who loves solving problems and building interesting projects. I enjoy building apps and APIs and I actively participate in hackathons, considering them invaluable learning experiences. I see challenges as chances to learn and improve. I also like working with others and talking about tech stuff.**
 
 
 <hr>
