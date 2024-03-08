@@ -11,7 +11,7 @@
 <hr>
 </div>
 
- - 🌱 Currently learning Deep learning and NLP.
+ - 🌱 Currently learning Nextjs and Docker.
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
