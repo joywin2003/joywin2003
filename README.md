@@ -11,7 +11,7 @@
 <hr>
 </div>
 
- - 🌱 Currently experimenting on php and Laravel
+ - 🌱 Currently experimenting on Angular and dotnet
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
