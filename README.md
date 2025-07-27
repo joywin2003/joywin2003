@@ -3,7 +3,7 @@
 ![logo](Iamadeveloper.gif)
 
 # Hey there, I'm Joywin
-**I'm a computer science student who loves solving problems and building interesting projects. I enjoy building apps and APIs and I actively participate in hackathons, considering them invaluable learning experiences. I see challenges as chances to learn and improve. I also like working with others and talking about tech stuff.**
+Hi, I'm Joywin, a software developer and trainee at EG A/S, a Nordic vertical software company. I enjoy building projects for fun and learning, working with TypeScript, Next.js, React, Prisma, and Express. I like collaborating with others and discussing tech. Lately, I’ve been exploring the agentic AI space and its potential to accelerate real software tasks without the usual hype.
 
 
 <hr>
@@ -11,7 +11,7 @@
 <hr>
 </div>
 
- - 🌱 Currently experimenting on Java Springboot
+ - 🌱 Currently experimenting on Redux Toolkit & Cloudflare
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
