@@ -11,7 +11,7 @@ Hi, I'm Joywin, a software developer and trainee at EG A/S, a Nordic vertical so
 <hr>
 </div>
 
- - 🌱 Currently experimenting on Redux Toolkit & Cloudflare
+ - 🌱 Currently inactive since am busy with corporate slavery
  - 📫 You can reach me at joywinbennis0987@mail.com.
  - ⚡ Fun fact: I'm a big fan of board games and enjoy playing them with friends and family.
 
