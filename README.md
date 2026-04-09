@@ -3,7 +3,7 @@
 ![logo](Iamadeveloper.gif)
 
 # Hey there, I'm Joywin
-Hi, I'm Joywin, a software developer and trainee at EG A/S, a Nordic vertical software company. I enjoy building projects for fun and learning, working with TypeScript, Next.js, React, Prisma, and Express. I like collaborating with others and discussing tech. Lately, I’ve been exploring the agentic AI space and its potential to accelerate real software tasks without the usual hype.
+Hi, I'm Joywin, a software developer at EG A/S, a Nordic vertical software company. I enjoy building projects for fun and learning, working with TypeScript, Next.js, React, Prisma, and Express. I like collaborating with others and discussing tech. Lately, I’ve been exploring the agentic AI space and its potential to accelerate real software tasks without the usual hype.
 
 
 <hr>
